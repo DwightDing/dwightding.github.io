@@ -4,27 +4,27 @@
         "details": [
             {
                 "appID": "49C9BK7GB2.com.tencent.qqlivei18n",
-                "paths": ["/app/global/wechat_auth/*"]
+                "paths": ["/app/global/wechat_auth/*","/ulink/*"]
             },
             {
                 "appID": "49C9BK7GB2.com.tencent.qqlivei18n.us",
-                "paths": ["/app/us/wechat_auth/*"]
+                "paths": ["/app/us/wechat_auth/*","/ulink/*"]
             },
             {
-                "appID": "5X5KJ53A8P.com.tencent.qqlivei18n.tw",
-                "paths": ["/app/tw/wechat_auth/*"]
+                "appID": "49C9BK7GB2.com.tencent.qqlivei18n.tw",
+                "paths": ["/app/tw/wechat_auth/*","/ulink/*"]
             },
             {
                 "appID": "5X5KJ53A8P.com.tencent.qqlivei18n.dev",
-                "paths": ["/app/global/wechat_auth/*"]
+                "paths": ["/app/global/wechat_auth/*","/ulink/*"]
             },
             {
                 "appID": "5X5KJ53A8P.com.tencent.qqlivei18n.us.dev",
-                "paths": ["/app/us/wechat_auth/*"]
+                "paths": ["/app/us/wechat_auth/*","/ulink/*"]
             },
             {
                 "appID": "5X5KJ53A8P.com.tencent.qqlivei18n.tw.dev",
-                "paths": ["/app/tw/wechat_auth/*"]
+                "paths": ["/app/tw/wechat_auth/*","/ulink/*"]
             }
         ]
     }
